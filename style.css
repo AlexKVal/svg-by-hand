@@ -35,4 +35,12 @@ body, div, input, label, svg, form {
 
 .Icon {
   order: -1;
+  width: 1rem;
+  height: 1rem;
+}
+
+.Icon path {
+  fill: none;
+  stroke: blue;
+  stroke-width: 2px;
 }
